@@ -1,6 +1,6 @@
 ## hi! mary here :) </strong>
 
-> digital craftsman (producer/musician/videomaker/digital artist/developer) - she/her
+> digital craftsman (producer/musician/videomaker/digital artist/developer) 
 
 🔭 still studying software development.                                                               
 
