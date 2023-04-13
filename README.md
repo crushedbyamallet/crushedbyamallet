@@ -1,4 +1,4 @@
-## hi! mary here :) </strong>
+## hi! </strong>
 
 > digital craftsman (producer/musician/videomaker/digital artist/developer) 
 
