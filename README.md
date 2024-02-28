@@ -6,7 +6,7 @@
 
 💬 feel free to explore some of my work as a artist or developer!
 
-<code><img height="300" src="[https://cdn.discordapp.com/attachments/879097690208735252/1096124039623344128/lain.gif](https://media.discordapp.net/attachments/858911571321683978/1212203479658143774/IMG_7276.gif?ex=65f0fb77&is=65de8677&hm=a9a54a36d3b855c17add7b597c814491e57c1a77987cfd4155e7c94c4e9b9913&)" alt="c"/></code>
+<code><img height="300" src="https://media.discordapp.net/attachments/858911571321683978/1212203479658143774/IMG_7276.gif?ex=65f0fb77&is=65de8677&hm=a9a54a36d3b855c17add7b597c814491e57c1a77987cfd4155e7c94c4e9b9913&" alt="c"/></code>
 
 ----
 
