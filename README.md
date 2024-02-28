@@ -1,6 +1,6 @@
 ## 𝙥𝙧𝙚𝙨𝙚𝙣𝙩 𝙙𝙖𝙮, 𝙥𝙧𝙚𝙨𝙚𝙣𝙩 𝙩𝙞𝙢𝙚. </strong>
 
-> digital craftsman (producer/musician/videomaker/digital artist) 
+> digital craftsman (producer/musician/videomaker/digital artist/it student) 
 
 🔭 still studying software development.                                                               
 
