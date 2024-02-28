@@ -4,7 +4,7 @@
 
 🔭 still studying software development.                                                               
 
-💬 feel free to explore some of my work as a artist or developer!
+💬 feel free to explore some of my work as an artist!
 
 ![lain](https://github.com/crushedbyamallet/crushedbyamallet/assets/126797082/6e88bd7f-0199-4f0f-b600-505a40d43e89)
 
