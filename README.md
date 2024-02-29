@@ -4,13 +4,13 @@
 
 🔭 still studying software development.                                                               
 
-💬 feel free to explore some of my work as an artist!
+💬 feel free to explore some of my work as an artist as well!
 
 ![lain](https://github.com/crushedbyamallet/crushedbyamallet/assets/126797082/6e88bd7f-0199-4f0f-b600-505a40d43e89)
 
 ----
 
-## 🚀 skills
+## 🚀 learning
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="c"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="c"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="c"/></code>
