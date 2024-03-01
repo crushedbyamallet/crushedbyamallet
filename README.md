@@ -27,8 +27,7 @@
 ---
 
 ## ⭐ info!!
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crushedbyamallet&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crushedbyamallet&theme=github&dark_icons=true)
 ---
 
 ## 👋 portfolios/contact
