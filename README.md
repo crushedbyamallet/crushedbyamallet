@@ -32,7 +32,7 @@
 
 ## 👋 portfolios/contact
 <div> 
-  <a href="https://ayo.so/marullyn" target="_blank"> :) </a>
+  <a href="https://ayo.so/marullyn" target="_blank"> 💾📁 </a>
   
   
 </div>
