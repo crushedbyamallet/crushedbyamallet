@@ -32,10 +32,7 @@
 
 ## 👋 portfolios/contact
 <div> 
-  <a href="https://www.artstation.com/marullyn" target="_blank"> 𝑰𝑳𝑼𝑺𝑻𝑹𝑨𝑻𝑰𝑶𝑵𝑺 </a>
-  <a href="https://www.instagram.com/marullynn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.behance.net/marullyn/" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit"></a>
- <a href="https://discord.gg/wagxzStdcR](https://open.spotify.com/artist/5YmbyvSzDc2PHZplAA2Til?si=s9TeKjA5S1eebeZw7vLAkA)" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/mary-speranzini-a6092726a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://ayo.so/marullyn" target="_blank"> :) </a>
+  
   
 </div>
